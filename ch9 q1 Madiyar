@@ -1,0 +1,6 @@
++1.Which command you must run with the disk device name as an argument to force a re-read of its partition table?
++
+++ 'partprobe'
++* 'fdisk'
++* 'partition'
++* 'mkfs'
